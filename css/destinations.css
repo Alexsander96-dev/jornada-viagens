@@ -84,3 +84,10 @@
     width: 1200px;
   }
 }
+/*Reset do header, pois esta herdando do header principal da pagina*/
+.destinations .item header {
+  display: block;
+  position: static;
+  background-color: transparent;
+  padding: 0;
+}
