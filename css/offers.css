@@ -17,14 +17,10 @@
   border-radius: 16px;
   text-align: center;
   background-color: black;
-  margin-bottom: 24px;
 }
 
 .offers-cards .card header {
-  display: block;
-  position: static;
-  background-color: transparent;
-  padding: 0;
+  margin-bottom: 24px;
 }
 
 .offers-cards .card header p {
@@ -79,7 +75,7 @@
     height: 308px;
   }
 
- .offers-cards .card header h3 {
+  .offers-cards .card header h3 {
     font-size: 48px;
   }
 
